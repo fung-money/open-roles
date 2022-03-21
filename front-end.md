@@ -1,7 +1,7 @@
 <img src="cover-fung.jpg" alt="drawing"/>
 
 # :eye_speech_bubble: Fung's vision 
-Fung’s vision of the future is a world where **digital assets and payments are the new normal**. Purchasing digital assets should not feel as exclusive concept reserved only for the savviest 1%. It should be as simple as buying a T-shirt online with your card. To be part of this future, E-commerce **needs reliable infrastructure**, where cryptocurrency and fiat payments are handled alike. Fung is building for this future, as the first Regulated Payments Platform with **fiat and crypto rails at its core design**. 
+Fung’s vision of the future is a world where **digital assets and digital payments are the new normal**. Purchasing digital assets should not feel as exclusive concept reserved only for the savviest 1%. It should be as simple as buying a T-shirt online with your card. To be part of this future, E-commerce **needs reliable infrastructure**, where cryptocurrency and fiat payments are handled alike. Fung is building for this future, as the first Regulated Payments Platform with **fiat and crypto rails at its core design**. 
 
 Actually, **the future is now** — NFTs.
 
@@ -26,11 +26,11 @@ Core-developer at a Bitcoin Exchange (CleverCoin) in 2015; Core-developer at Ful
 
 **Chief Legal &amp; Compliance — Andrei Valeanu**
 
-Multiple financial companies (Nationale Nederlanden, Banking Blocks, Ingenico). Built the compliance program at Uber and lead development of a proprietary in-house AML model to enable mass-scale onboarding of customers. The internal police.
+Multiple financial companies (Nationale Nederlanden, Banking Blocks, Ingenico). Built the compliance program at Uber and lead development of a proprietary in-house AML model to enable mass-scale onboarding of customers. The internal police. Descendant of Transilvania. :vampire_man:
 
 # :man_astronaut: Role description
 
-As a Front-end Engineer at Fung, you will be responsible for building the **core products of our Payments Platform** with initial area of focus on Checkout, Merchant Onboarding and Merchant Back-office. You will work on a modern React codebase, and use a lot of new technologies, such as web3.js and crypto wallet SDKs to **interact with different blockchains**. You will work closely with the whole team, and more particularly with the Head of Product, Lead Designer and the rest of the Engineering team. As one of the first Engineers in the team, you will have the opportunity to **work on the foundations of the project** together with the rest of the core team.
+As a Front-end Engineer at Fung, you will be responsible for building the **core products of our Payments Platform** with initial area of focus on Checkout, Merchant Onboarding and Merchant Back-office. You will work on a modern React codebase, and use a lot of new technologies, such as web3.js and crypto wallet SDKs to **interact with different blockchains**. You will work closely with everyone, but especially with our Head of Product, Lead Designer and the rest of the Engineering. As one of the first Engineers to get onboard, you will have the opportunity to **work on the foundations of the project** together with the rest of the core team.
 
 # :man_firefighter: Responsibilities
 - Develop core payment products of Fung's Payment Platform
@@ -46,7 +46,7 @@ As a Front-end Engineer at Fung, you will be responsible for building the **core
 - 4+ years working with Javascript, React, CSS. Typescript is a plus.
 - You have history working independently and taking ownership. We don't have time for micro management :)
 - You have history working in an Engineering team and not as a lone wolf
-- You have history building Slick AF consumer products and you're uncompromising about _delightful_ experiences
+- You have history building slick AF consumer products and you're uncompromising about _delightful_ experiences
 - You are proud about your work, and passionionate about the space you are solving problems in.
 - Tech lead experience is a plus
 - Web3 or blockchain experience is a plus

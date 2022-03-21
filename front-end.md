@@ -35,10 +35,9 @@ As a Front-end Engineer at Fung, you will be responsible for building the **core
 # :man_firefighter: Responsibilities
 - Develop core payment products of Fung's Payment Platform
 - Own engineering projects from design to implementation
-- Solve challenges around performance, code extendability and future-proofing the codebase for you and your team
 - Develop delightful UIs working hand in hand with Head of Product &amp; Lead Designer
+- Solve challenges around performance, code extendability and future-proofing the codebase
 - Be on the cutting edge of innovation, always exploring ways to improve your work
-- No bugs are allowed on Fridays
 
 # :fire: About you
 <img src="https://media0.giphy.com/media/dUHdTk3tvry9NETa67/giphy.gif" alt="about-you" width="300"/>

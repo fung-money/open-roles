@@ -52,6 +52,7 @@ As a Front-end Engineer at Fung, you will be responsible for building the **core
 
 # How we work
 <img src="team-2.jpg" alt="drawing" width="600"/>
+
 - Everyone starting at **100% trust and autonomy**. We trust you to act.
 - Work hard, play hard. Focus on getting sh*t done, then take your personal time when you need it.
 - We keep everyone in the loop at all times, about all things going on in the company. Feel free to AMA.

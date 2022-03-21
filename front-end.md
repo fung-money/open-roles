@@ -64,6 +64,7 @@ As a Front-end Engineer at Fung, you will be responsible for building the **core
 - You get half a day every sprint as **free dev time** to experiment and learn on your own
 
 # :grey_exclamation: What we offer
+- Generous options package, where you grow as the company grows. We are looking for missionaries, not mercenaries.
 - 25 holidays per year + official bank holidays. Additional unpaid leave is also allowed when you need it.
 - Office in the heart of Amsterdam at [The Next Web](https://thenextweb.com/spaces/locations/city), sharing building space with
 other tech startups. You will have great networking opportunities and events, organised by Google, KPMG &amp; more. Work from here, remotely or anything in-between.

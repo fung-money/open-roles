@@ -33,23 +33,23 @@ Multiple financial companies (Nationale Nederlanden, Banking Blocks, Ingenico). 
 As a Front-end Engineer at Fung, you will be responsible for building the **core products of our Payments Platform** with initial area of focus on Checkout, Merchant Onboarding and Merchant Back-office. You will work on a modern React codebase, and use a lot of new technologies, such as web3.js and crypto wallet SDKs to **interact with different blockchains**. You will work closely with everyone, but especially with our Head of Product, Lead Designer and the rest of the Engineering. As one of the first Engineers to get onboard, you will have the opportunity to **work on the foundations of the project** together with the rest of the core team.
 
 # :man_firefighter: Responsibilities
-- Develop core payment products of Fung's Payment Platform
-- Own engineering projects from design to implementation
-- Develop delightful UIs working hand in hand with Head of Product &amp; Lead Designer
-- Solve challenges around performance, code extendability and future-proofing the codebase
-- Be on the cutting edge of innovation, always exploring ways to improve your work
+- Develop core payment products of Fung's Payment Platform.
+- Own engineering projects from design to implementation.
+- Develop delightful UIs working hand in hand with Head of Product &amp; Lead Designer.
+- Solve challenges around performance, code extendability and future-proofing the codebase.
+- Be on the cutting edge of innovation, always exploring ways to improve your work.
 
 # :fire: About you
 <img src="https://media0.giphy.com/media/dUHdTk3tvry9NETa67/giphy.gif" alt="about-you" width="300"/>
 
 - 4+ years working with Javascript, React, CSS. Typescript is a plus.
 - You have history working independently and taking ownership. We don't have time for micro management :)
-- You have history working in an Engineering team and not as a lone wolf
-- You have history building slick AF consumer products and you're uncompromising about _delightful_ experiences
+- You have history working in an Engineering team and not as a lone wolf.
+- You have history building slick AF consumer products and you're uncompromising about _delightful_ experiences.
 - You are proud about your work, and passionionate about the space you are solving problems in.
-- Tech lead experience is a plus
-- Web3 or blockchain experience is a plus
-- Online payments experience is a plus
+- Tech lead experience is a plus.
+- Web3 or blockchain experience is a plus.
+- Online payments experience is a plus.
 
 # How we work
 <img src="team-2.jpg" alt="team-2" width="600"/>
@@ -60,17 +60,17 @@ As a Front-end Engineer at Fung, you will be responsible for building the **core
 - Internal knowledge and processes are always written down, so you **never feel lost**
 - We work in a bleeding edge industry, where nobody is truly an expert and we **learn every day**.
 - We are **risk takers**, and believers. Mistakes are how we learn.
-- You get half a day every sprint as **free dev time** to experiment and learn on your own
+- You get half a day every sprint as **free dev time** to experiment and learn on your own.
 
 # :grey_exclamation: What we offer
 - Generous options package, where you grow as the company grows. We are looking for missionaries, not mercenaries.
 - 25 holidays per year + official bank holidays. Additional unpaid leave is also allowed when you need it.
 - Office in the heart of Amsterdam at [The Next Web](https://thenextweb.com/spaces/locations/city), sharing building space with
 other tech startups. You will have great networking opportunities and events, organised by Google, KPMG &amp; more. Work from here, remotely or anything in-between.
-- Friday drinks, regular team lunches, dinners and outings as a close-knit team of co-minded people
-- Assistance with home office setup
-- An educational budget for books, conferences and courses
-- A really cool product to work on with cutting edge technology, and freedom for you to express your views and ideas
+- Friday drinks, regular team lunches, dinners and outings as a close-knit team of co-minded people.
+- Assistance with home office setup.
+- An educational budget for books, conferences and courses.
+- A really cool product to work on with cutting edge technology, and freedom for you to express your views and ideas.
 - Got questions or something you really want? Let's talk about it!
 
 # Wanna chat?

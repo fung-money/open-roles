@@ -73,4 +73,7 @@ other tech startups. You will have great networking opportunities and events, or
 - A really cool product to work on with cutting edge technology, and freedom for you to express your views and ideas
 - Got questions or something you really want? Let's talk about it!
 
+# Wanna chat?
+Reach out to talent@fung.money, and we'll be in touch shortly :) 
+
 ### :thinking: Not sure you have what it takes? We believe in growing people and are happy to talk to you

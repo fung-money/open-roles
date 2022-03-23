@@ -73,6 +73,29 @@ other tech startups. You will have great networking opportunities and events, or
 - A really cool product to work on with cutting edge technology, and freedom for you to express your views and ideas.
 - Got questions or something you really want? Let's talk about it!
 
+# The hiring process
+<img src="https://media.giphy.com/media/AYECTMLNS4o67dCoeY/giphy-downsized.gif" alt="team-2" width="300"/>
+
+### #1 — Synergy & first impressions
+You get to talk to one of our non-technical founders, where you get to learn more about Fung and the role, and we get to learn a bit more about you.
+We favour Dutch directness and openness, and we'll offer you the same, so feel free to ask us anything.
+
+### #2 — Meet Konstantin
+You get to talk to our CTO. Tech talk, to understand your skills, who you are, and how you think. No algorithm questions.
+You also get to learn more about the problems which need solving and the state of the platform.
+
+### #3 — Case work
+You get to work on a case at home. We won't tell you what just yet.
+
+### #4 — Review of your case work
+You get to present to us (all 3 founders) your work.
+You highlight and reason your choices for what you did and didn't do.
+~We challenge everything you say, regardless of how good it is~. We discuss your solution with you.
+
+### #5 — Final round
+We've discussed internally and came up with evaluation. We inform you of it, and provide supporting feedback.
+If you made it — We talk terms. If you didn't — We tell you why not. 
+
 # Wanna chat?
 Reach out to talent@fung.money, and we'll be in touch shortly :) 
 
